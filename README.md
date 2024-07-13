@@ -1,5 +1,5 @@
 ## system.grub
-A repo for Grub, configs and themes. The visuals beneeth is directly copied from 
+A repo for Grub, configs and themes. The visuals beneeth is more or less directly copied from "https://github.com/Jacksaur/Gorgeous-GRUB"
 
 # 🛠️ Installation
 
