@@ -15,3 +15,4 @@ GRUB_THEME="/usr/share/grub/themes/breeze/theme.txt"
 ```bash
 sudo grub-mkconfig -o /boot/grub/grub.cfg
 ```
+  - Do change 'breeze' with any other theme name that you wish to install.
